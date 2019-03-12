@@ -28,6 +28,8 @@ This is the hw03 sample. Please follow the steps below.
 
 2. Make and run like the steps above.
 
+3. Please avoid using hardware dependent C Standard library functions like `printf`, `malloc`, etc.
+
 # HW03 Requirements
 
 1. How do C functions pass and return parameters? Please describe the related standard used by the Application Binary Interface (ABI) for the ARM architecture.
